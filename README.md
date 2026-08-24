@@ -3,11 +3,11 @@
 ### Senac
 
 <div align= "center">
-   <img src="assests/HTML.svg">
+   <img src="assests/HTML.svg" width="40px" height="40px">
 
-   <img src="assests/CSS.svg">
+   <img src="assests/CSS.svg"  width="40px" height="40px">
 
-   <img src="assests/JavaScript.svg">
+   <img src="assests/JavaScript.svg"  width="40px" height="40px">
 </div>
 
    
